@@ -1,0 +1,314 @@
+h1 {
+    padding-top: 20px;
+    font-size: 20px;
+    font-weight: 500px;
+    color: #000000;
+}
+
+h2 {
+    font-size: 15px;
+    margin-top: 5px;
+}
+
+h1,
+h2 {
+    font-family: "Press Start 2P", cursive;
+}
+
+.float-left {
+    margin-top: -150px;
+    font-family: "Press Start 2P", cursive;
+}
+
+.pac {
+    margin-top: -10px;
+    margin-bottom: 07px;
+    color: greenyellow;
+    font-family: "Press Start 2P", cursive;
+    margin-left: -20px;
+}
+
+.pacone {
+    color: red;
+    font-size: 20px;
+}
+
+.pactwo {
+    color: red;
+    font-size: 20px;
+}
+
+.temperature {
+    font-size: 39px;
+    margin-top: -30px;
+    color: black;
+    line-height: 1;
+    font-family: "Press Start 2P", cursive;
+}
+
+h3 {
+    font-size: 14px;
+    font-family: "Press Start 2P", cursive;
+}
+
+body {
+    padding: 7px 90px;
+    background-color: black;
+}
+
+.container {
+    background: linear-gradient(#087c02, #000000);
+    font-family: "Press Start 2P", cursive;
+    width: 330px;
+    margin-left: -85px;
+    margin-top: 2px;
+    padding: 20px;
+}
+
+.search-bar {
+    width: 90%;
+    max-width: 540px;
+    height: 30px;
+    background: white;
+    border-radius: 60px;
+    padding: 1px 8px;
+
+    display: flex;
+    margin-top: -38px;
+    color: white;
+    font-family: "Press Start 2P", cursive;
+}
+
+.search-form {
+    margin-top: -26px;
+    color: green;
+    margin-left: -50px;
+}
+
+.search-form input {
+    background: black;
+    flex: 1;
+    border: 0;
+    outline: none;
+    font-size: 6px;
+    color: green;
+    font-family: "Press Start 2P", cursive;
+    margin-left: -10px;
+}
+
+.search-form button {
+    border: 0;
+    width: 15px;
+    height: 23px;
+    cursor: pointer;
+    margin-left: 270px;
+    margin-top: -36px;
+    background-color: black;
+}
+
+.location {
+    color: red;
+    margin-top: -10px;
+    margin-left: -5px;
+}
+
+.sunny {
+    color: red;
+    padding-left: 210px;
+    font-size: 9px;
+}
+
+.humidity,
+.wind {
+    padding-left: 200px;
+    font-size: 8px;
+    color: blue;
+}
+
+.wind {
+    margin-top: -15px;
+}
+
+.last-updated {
+    font-size: 8px;
+    color: red;
+    margin-bottom: 30px;
+}
+
+.monday-image,
+.tuesday-image,
+.wednesday-image,
+.thursday-image,
+.friday-image {
+    display: block;
+    font-size: 15px;
+    padding-left: 20px;
+}
+
+.monday-image,
+.friday-image {
+    color: green;
+    padding-left: 6px;
+}
+
+.tuesday-image {
+    color: green;
+    padding-left: 6px;
+}
+
+.wednesday-image {
+    color: green;
+    padding-left: 6px;
+}
+
+.thursday-image {
+    color: green;
+    padding-left: 6px;
+}
+
+.dates {
+    color: yellowgreen;
+    margin-top: 95px;
+}
+
+.h {
+    width: 90%;
+    height: 02px;
+    border: 0 none;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: yellow;
+}
+
+.col-9 {
+    width: 10px;
+}
+
+.row {
+    margin-top: 10px;
+    font-size: 8px;
+    margin-left: 35px;
+
+}
+
+.current-weather {
+    color: greenyellow;
+    font-size: 45px;
+    font-family: "Press Start 2P", cursive;
+
+    text-align: center;
+    margin-bottom: -40px;
+    margin-left: -70px;
+}
+
+.monday-weather,
+.tuesday-weather,
+.wednesday-weather,
+.thursday-weather,
+.friday-weather,
+.saturday-weather {
+    font-size: 7px;
+    margin-top: 30px;
+
+}
+
+.units {
+    position: relative;
+    top: -30px;
+    font-family: "Courier New", Courier, monospace;
+    color: blue;
+    font-size: 15px;
+}
+
+.monday,
+.tuesday,
+.wednesday,
+.thursday,
+.friday,
+.saturday {
+    border: 1px;
+    border-style: none;
+    transition: 0.6s ease-in-out;
+    cursor: pointer;
+    color: white;
+    margin-left: -15px;
+    text-align: center;
+
+
+}
+
+
+.monday:hover {
+
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.tuesday:hover {
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.wednesday:hover {
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.thursday:hover {
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.friday:hover {
+    background-color: black;
+    transform: scale(1.5);
+}
+
+.coder {
+    margin-left: -30px;
+    font-family: "Press Start 2P", cursive;
+    font-size: 6px;
+    margin-top: 15px;
+    text-align: left;
+    color: #087c02;
+}
+
+.pacmangame {
+    font-family: "Press Start 2P", cursive;
+    font-size: 9px;
+    color: yellow;
+    margin-bottom: -900px;
+    margin-left: -50px;
+    text-decoration: none;
+
+}
+
+.scores {
+    color: white;
+    font-family: "Press Start 2P", cursive;
+    font-size: 9px;
+}
+
+.score {
+    margin-left: -70px;
+}
+
+.numbers {
+    margin-left: 132px;
+}
+
+.footer {
+    font-family: "Press Start 2P", cursive;
+    font-size: 9px;
+    color: white;
+}
+
+.lives {
+    margin-left: -70px;
+}
+
+.cherry {
+    margin-left: 155px;
+}
