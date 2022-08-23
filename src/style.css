@@ -56,9 +56,8 @@ h3 {
     font-family: "Press Start 2P", cursive;
 }
 
-body {
-    padding: 7px 90px;
-    background-color: black;
+body  {
+    background: conic-gradient( green,yellow,red,black);
 }
 
 .container {
