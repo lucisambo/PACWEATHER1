@@ -19,13 +19,18 @@ h2 {
     margin-top: -150px;
     font-family: "Press Start 2P", cursive;
 }
+.weatherness{
+    max-width:600px;
+    margin: 0 auto;
+}
 
 .pac {
     margin-top: -28px;
     margin-bottom: 07px;
     color: greenyellow;
     font-family: "Press Start 2P", cursive;
-    margin-left: -25px;
+    max-width: 600px;
+    text-align: center;
 }
 
 .pacone {
@@ -59,8 +64,7 @@ body {
 .container {
     background: linear-gradient(#087c02, #000000);
     font-family: "Press Start 2P", cursive;
-    width: 330px;
-    margin-left: -85px;
+    width: 345px;
     margin-top: 2px;
     padding: 20px;
 }
@@ -267,11 +271,9 @@ body {
 }
 
 .coder {
-    margin-left: -30px;
     font-family: "Press Start 2P", cursive;
     font-size: 6px;
     margin-top: 15px;
-    text-align: left;
     color: #087c02;
 }
 
@@ -280,7 +282,6 @@ body {
     font-size: 9px;
     color: yellow;
     margin-bottom: -900px;
-    margin-left: -50px;
     text-decoration: none;
 
 }
@@ -289,15 +290,17 @@ body {
     color: white;
     font-family: "Press Start 2P", cursive;
     font-size: 9px;
+    max-width: 600px;
+    text-align: center;
 }
-
 .score {
-    margin-left: -70px;
+    margin-left: -10px;
 }
 
 .numbers {
     margin-left: 132px;
 }
+
 
 .footer {
     font-family: "Press Start 2P", cursive;
@@ -305,10 +308,3 @@ body {
     color: white;
 }
 
-.lives {
-    margin-left: -70px;
-}
-
-.cherry {
-    margin-left: 155px;
-}
