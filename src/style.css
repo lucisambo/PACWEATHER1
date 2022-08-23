@@ -2,7 +2,7 @@ h1 {
     padding-top: 25px;
     font-size: 28px;
     font-weight: 500px;
-    color: white;
+    color: black;
 }
 
 h2 {
@@ -41,7 +41,7 @@ h2 {
 .temperature {
     font-size: 39px;
     margin-top: -30px;
-    color: black;
+    color: white;
     line-height: 1;
     font-family: "Press Start 2P", cursive;
 }
@@ -122,7 +122,7 @@ body {
 .wind {
     padding-left: 200px;
     font-size: 8px;
-    color: blue;
+    color: yellow;
 }
 
 .wind {
@@ -216,10 +216,10 @@ body {
 
 .units {
     position: relative;
-    top: -30px;
-    font-family: "Courier New", Courier, monospace;
-    color: blue;
-    font-size: 15px;
+    top: -28px;
+    font-family: "Press Start 2P", cursive;
+    color: white;
+    font-size: 20px;
 }
 
 .monday,
