@@ -308,3 +308,16 @@ body {
     color: white;
 }
 
+.page-end {
+     max-width: 600px;
+     margin: 0 auto;
+     
+}
+
+.lives{
+    margin-left: 130px;
+    
+}
+.cherry{
+    margin-left: 200px;
+}
