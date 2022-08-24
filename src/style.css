@@ -245,7 +245,7 @@ body  {
 
 .monday:hover {
 
-    background-color: black;
+    background:linear-gradient(rgb(107, 104, 104),rgb(153, 35, 35),rgb(245, 172, 38),rgb(247, 247, 145));
     transform: scale(1.5);
 }
 
