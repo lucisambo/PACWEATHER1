@@ -148,7 +148,7 @@ body  {
 .thursday-image,
 .friday-image {
     display: block;
-    font-size: 20px;
+    font-size: 30px;
     padding-left: 20px;
 
 }
@@ -241,7 +241,7 @@ body  {
     color: black;
     text-align: center;
     box-shadow:yellow;
-    width: 40px;
+    width: 43px;
     margin-left: -8px;
     border-radius: 1em;
     background:linear-gradient(orangered, black);
