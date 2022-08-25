@@ -2,7 +2,7 @@ h1 {
     padding-top: 25px;
     font-size: 28px;
     font-weight: 500px;
-    color: black;
+    color: rgb(2, 2, 56);
 }
 
 h2 {
@@ -46,7 +46,7 @@ h2 {
 .temperature {
     font-size: 39px;
     margin-top: -30px;
-    color: white;
+    color: #F2896C;
     line-height: 1;
     font-family: "Press Start 2P", cursive;
 }
@@ -57,11 +57,11 @@ h3 {
 }
 
 body  {
-    background: conic-gradient(red,green);
+    background: conic-gradient(#F2896C,#6E5D77);
 }
 
 .container {
-    background: linear-gradient(#087c02, #000000);
+    background: linear-gradient(#43948B,#274C58);
     font-family: "Press Start 2P", cursive;
     width: 360px;
     margin-top: 2px;
@@ -92,12 +92,12 @@ body  {
 }
 
 .search-form input {
-    background: black;
+    background:#F6857B;
     flex: 1;
     border: 0;
     outline: none;
     font-size: 6px;
-    color: green;
+    color: white;
     font-family: "Press Start 2P", cursive;
     margin-left: -10px;
     padding-top: 6px;
@@ -110,26 +110,26 @@ body  {
     cursor: pointer;
     margin-left: -35px;
     margin-top: 0px;
-    background-color: black;
+    background-color: #F6857B;
 }
 
 .location {
-    color: orangered;
+    color: white;
     margin-top: -10px;
     margin-left: -5px;
 }
 
 .sunny {
-    color: orangered;
+    color: white;
     padding-left: 200px;
-    font-size: 9px;
+    font-size: 10px;
 }
 
 .humidity,
 .wind {
     padding-left: 200px;
     font-size: 8px;
-    color: yellowgreen;
+    color:#E4846D ;
 }
 
 .wind {
@@ -155,22 +155,22 @@ body  {
 
 .monday-image,
 .friday-image {
-    color: green;
+    color: #274C58;
     padding-left: 6px;
 }
 
 .tuesday-image {
-    color:green;
+    color:#274C58;
     padding-left: 6px;
 }
 
 .wednesday-image {
-    color: green;
+    color: #274C58;
     padding-left: 6px;
 }
 
 .thursday-image {
-    color: green;
+    color: #274C58;
     padding-left: 6px;
 }
 
@@ -187,7 +187,8 @@ body  {
     margin-left: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: yellow;
+    background-color:#F2896C ;
+        
 }
 
 
@@ -217,7 +218,7 @@ body  {
 .saturday-weather {
     font-size: 10px;
     margin-top: 30px;
-    color: white;
+    color: #F2896C;
 
 }
 
@@ -225,7 +226,7 @@ body  {
     position: relative;
     top: -28px;
     font-family: "Press Start 2P", cursive;
-    color: white;
+    color: #F2896C;
     font-size: 20px;
 }
 
@@ -244,7 +245,7 @@ body  {
     width: 43px;
     margin-left: -8px;
     border-radius: 1em;
-    background:linear-gradient(orangered, black);
+    background:linear-gradient(#ECADBA,#6E5D77);
 
 
 }
