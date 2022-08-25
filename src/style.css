@@ -66,6 +66,8 @@ body  {
     width: 360px;
     margin-top: 2px;
     padding: 20px;
+    border: 1px black;
+    border-radius: 1em;
 }
 
 .search-bar {
