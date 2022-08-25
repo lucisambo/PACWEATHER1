@@ -39,7 +39,7 @@ h2 {
 }
 
 .pactwo {
-    color: red;
+    color: black;
     font-size: 20px;
 }
 
@@ -57,7 +57,7 @@ h3 {
 }
 
 body  {
-    background: conic-gradient( green,yellow,red,black);
+    background: conic-gradient(red,green);
 }
 
 .container {
