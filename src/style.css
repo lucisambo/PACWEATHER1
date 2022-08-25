@@ -27,19 +27,19 @@ h2 {
 .pac {
     margin-top: -5px;
     margin-bottom: 07px;
-    color: greenyellow;
+    color: #020238;
     font-family: "Press Start 2P", cursive;
     max-width: 600px;
     text-align: center;
 }
 
 .pacone {
-    color: red;
+    color: #F2896C;
     font-size: 20px;
 }
 
 .pactwo {
-    color: black;
+    color: white;
     font-size: 20px;
 }
 
@@ -92,7 +92,7 @@ body  {
 }
 
 .search-form input {
-    background:#F6857B;
+    background:#E4A8B6;
     flex: 1;
     border: 0;
     outline: none;
@@ -110,7 +110,7 @@ body  {
     cursor: pointer;
     margin-left: -35px;
     margin-top: 0px;
-    background-color: #F6857B;
+    background-color: #E4A8B6;
 }
 
 .location {
@@ -138,7 +138,7 @@ body  {
 
 .last-updated {
     font-size: 8px;
-    color: orangered;
+    color: #020238;
     margin-bottom: 30px;
 }
 
@@ -175,7 +175,7 @@ body  {
 }
 
 .dates {
-    color: yellowgreen;
+    color: #020238;
     margin-top: 95px;
 }
 
@@ -199,6 +199,7 @@ body  {
     margin-left: 30px;
 
 }
+
 
 .current-weather {
     color: greenyellow;
@@ -239,9 +240,8 @@ body  {
     border: 1px green;
     transition: 0.6s ease-in-out;
     cursor: pointer;
-    color: black;
+    color: #020238;
     text-align: center;
-    box-shadow:yellow;
     width: 43px;
     margin-left: -8px;
     border-radius: 1em;
