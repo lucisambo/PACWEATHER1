@@ -276,15 +276,15 @@ body  {
 
 .coder {
     font-family: "Press Start 2P", cursive;
-    font-size: 6px;
+    font-size: 9px;
     margin-top: 15px;
+margin-left: 530px;
 
 }
 
 .pacmangame {
     font-family: "Press Start 2P", cursive;
-    font-size: 9px;
-    color: yellow;
+    font-size: 12px;
     text-decoration: none;
     text-align: center;
 
