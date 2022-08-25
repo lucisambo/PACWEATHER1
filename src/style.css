@@ -278,9 +278,7 @@ body  {
     font-family: "Press Start 2P", cursive;
     font-size: 6px;
     margin-top: 15px;
-    color: #087c02;
-    margin-left: 200px;
-    text-align: center;
+
 }
 
 .pacmangame {
@@ -315,16 +313,4 @@ body  {
     color: white;
 }
 
-.page-end {
-     max-width: 600px;
-     margin: 0 auto;
-     
-}
 
-.lives{
-    margin-left: 130px;
-    
-}
-.cherry{
-    margin-left: 200px;
-}
