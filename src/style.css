@@ -16,7 +16,6 @@ h2 {
 }
 
 .float-left {
-    margin-top: -150px;
     font-family: "Press Start 2P", cursive;
 }
 .weatherness{
@@ -44,8 +43,8 @@ h2 {
 }
 
 .temperature {
-    font-size: 39px;
-    margin-top: -30px;
+    font-size: 45px;
+    margin-top: 120px;
     color: #F2896C;
     line-height: 1;
     font-family: "Press Start 2P", cursive;
@@ -176,7 +175,7 @@ body  {
 
 .dates {
     color: #020238;
-    margin-top: 95px;
+    margin-top: 21px;
 }
 
 .h {
@@ -225,10 +224,10 @@ body  {
 
 .units {
     position: relative;
-    top: -28px;
+    top: -38px;
     font-family: "Press Start 2P", cursive;
     color: #F2896C;
-    font-size: 20px;
+    font-size: 9px;
 }
 
 .monday,
@@ -313,4 +312,7 @@ margin-left: 530px;
     color: white;
 }
 
-
+.weather-icon{
+    font-size: 30px;
+    padding-right: 55px;
+}
