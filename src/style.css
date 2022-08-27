@@ -164,6 +164,7 @@ body {
     font-size: 8px;
 }
 
+
 .weather-forecast-temperature-max,
 .weather-forecast-temperature-min {
     font-size: 6px;
@@ -184,7 +185,7 @@ body {
 .weather-forecast-date {
     text-align: center;
     color: white;
-    text-transform: capitalize;
+    font-size: 10px;
 }
 .weather-forecast{
 border: 1px none;

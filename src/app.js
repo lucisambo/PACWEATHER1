@@ -37,7 +37,7 @@ function displayForecast(response) {
 
   let forecastHTML = `<div class="row">`;
   forecast.forEach(function (forecastDay, index) {
-    if (index < 4) {
+    if (index < 5) {
       forecastHTML =
         forecastHTML +
         `
@@ -57,7 +57,7 @@ function displayForecast(response) {
             forecastDay.weather[0].icon
           }@2x.png"
           alt=""
-          width="45"
+          width="35"
         />
       </div>
       </div>
