@@ -57,7 +57,7 @@ function displayForecast(response) {
             forecastDay.weather[0].icon
           }@2x.png"
           alt=""
-          width="35"
+          width="40"
         />
       </div>
       </div>
