@@ -165,11 +165,15 @@ body {
 }
 
 
-.weather-forecast-temperature-max,
-.weather-forecast-temperature-min {
+.weather-forecast-temperatures {
     font-size: 6px;
-    margin-top: 30px;
     color: #F2896C;
+
+}
+
+.weather-forecast-min,
+.weather-forecast-max{
+    font-size: 8px;
 
 }
 .weather-forecast-temperature-min{
